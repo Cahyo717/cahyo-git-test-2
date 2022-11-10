@@ -9,6 +9,9 @@
 		<table>
 			<tr>
         <td>Username / Email</td>
+	<title>Membuat Login Dengan PHP dan MySQL | MalasNgoding.com</title>	
+</head>
+<body>
 				<td><input type="text" name="username"></td>
 			</tr>
 			<tr>
