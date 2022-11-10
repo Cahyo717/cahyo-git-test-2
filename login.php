@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<title>Form Login</title>	
+</head>
+<body>
+	<h3>Halaman Login Sederhana</h3>
+	<form action="" method="post">		
+		<table>
+			<tr>
+        <td>Username / Email</td>
 	<title>Membuat Login Dengan PHP dan MySQL | MalasNgoding.com</title>	
 </head>
 <body>
-	<h1>Membuat Login Dengan PHP dan MySQL | MalasNgoding.com</h1>
-	<h3>Halaman Login Sederhana</h3>
-	<form action="login.php" method="post">		
-		<table>
-			<tr>
-				<td>Username</td>
 				<td><input type="text" name="username"></td>
 			</tr>
 			<tr>
